@@ -30,7 +30,7 @@ Just natural progress.
 ## Install (30 seconds)
 
 ```bash
-# macOS / Linux / Windows
+# macOS / Linux
 curl -L https://gg.sh | sh
 
 # or via Go
